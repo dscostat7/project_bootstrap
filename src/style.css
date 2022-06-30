@@ -3,3 +3,7 @@
     object-fit: cover;
     object-position: 0 80%;
 }
+
+.font-title {
+    font-family: 'Pacifico', cursive;
+}
