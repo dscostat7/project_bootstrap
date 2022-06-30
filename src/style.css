@@ -11,3 +11,17 @@
 .color_wine {
     color: darkred;
 }
+
+.button_background_color {
+    background-color: darkred;
+    color: #fff;
+}
+
+.button_background_color:hover {
+    filter: brightness(0.8);
+    color: #fff;
+}
+
+.border_color {
+    border-color: darkred;
+}
