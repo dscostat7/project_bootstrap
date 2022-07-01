@@ -5,11 +5,11 @@
 }
 
 .font-title {
-    font-family: "Pacifico", cursive;
+    font-family: "Pacifico", cursive !important;
 }
 
 .color_wine {
-    color: darkred;
+    color: darkred !important;
 }
 
 .button_background_color {
