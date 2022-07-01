@@ -5,7 +5,7 @@
 }
 
 .font-title {
-    font-family: 'Pacifico', cursive;
+    font-family: "Pacifico", cursive;
 }
 
 .color_wine {
@@ -24,4 +24,10 @@
 
 .border_color {
     border-color: darkred;
+    width: 18rem;
+}
+
+.card_position {
+    height: 200px;
+    object-fit: cover;
 }
